@@ -17,4 +17,10 @@ This project documents the results of our evaluation of German [T5 models](https
 ### Result
 | Model                                                                           | rouge1 | rouge2 | rougeL | rougeLsum
 |---------------------------------------------------------------------------------|--------|--------|--------|----------
+| [google/mt5-small](https://huggingface.co/google/mt5-small) | 16.7323    | 3.5629    | 12.65    |  14.6898
+| []() | ???    | ???    | ???    | ???
+| []() | ???    | ???    | ???    | ???
+| []() | ???    | ???    | ???    | ???
+| []() | ???    | ???    | ???    | ???
+| []() | ???    | ???    | ???    | ???
 | [GermanT5/t5-base-german-3e](https://huggingface.co/GermanT5/t5-base-german-3e) | ???    | ???    | ???    | ???
