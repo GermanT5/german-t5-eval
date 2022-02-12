@@ -5,9 +5,10 @@ This project documents the results of our evaluation of German [T5 models](https
 
 ### Setup
 - train data: [Swisstext](https://www.swisstext.org/2019/shared-task/german-text-summarization-challenge.html)
-- test daten: [MLSUM](https://huggingface.co/datasets/mlsum)
-- batch size / GPU: 2
+- test data: [MLSUM](https://huggingface.co/datasets/mlsum)
 - GPUs: 4 (V100)
+- batch size / GPU: 2
+- batch size total: 8
 - warmup_ratio: 0.3
 - epochs: 10
 - max_source_length: 800
