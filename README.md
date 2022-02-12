@@ -17,8 +17,8 @@ This project documents the results of our evaluation of German [T5 models](https
 ### Result
 | Model                                                                           | rouge1 | rouge2 | rougeL | rougeLsum
 |---------------------------------------------------------------------------------|--------|--------|--------|----------
-| [google/mt5-small](https://huggingface.co/google/mt5-small) | 16.7323    | 3.5629    | 12.65    |  14.6898
-| []() | ???    | ???    | ???    | ???
+| [google/mt5-small](https://huggingface.co/google/mt5-small) | 16.7323    | 3.5629    | 12.65    | 14.6898
+| philschmid/test-german-t5-prompted-germanquad | 15.7629    | 2.8154    | 11.898    | 13.9223
 | []() | ???    | ???    | ???    | ???
 | []() | ???    | ???    | ???    | ???
 | []() | ???    | ???    | ???    | ???
