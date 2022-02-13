@@ -22,4 +22,4 @@ This project documents the results of our evaluation of German [T5 models](https
 | philschmid/test-german-t5-prompted-germanquad | 15.7629    | 2.8154    | 11.898    | 13.9223
 | [stefan-it/t5-base-secret](https://huggingface.co/stefan-it/t5-base-secret) package3 | 15.7427    | 2.9186    | 12.0224    | 13.8726
 | [stefan-it/t5-base-secret](https://huggingface.co/stefan-it/t5-base-secret) epoch2-package2 | 15.4757    | 2.7629    | 11.978    | 13.5326
-| [GermanT5/t5-base-german-3e](https://huggingface.co/GermanT5/t5-base-german-3e) | ???    | ???    | ???    | ???
+| [GermanT5/t5-base-german-3e](https://huggingface.co/GermanT5/t5-base-german-3e) | 14.5525    | 2.0007    | 11.1617    | 12.9124
