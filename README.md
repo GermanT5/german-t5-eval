@@ -16,6 +16,8 @@ This project documents the results of our evaluation of German [T5 models](https
 - learning rate: 5e-5 (default)
 
 ### Result
+Higher metric is better.
+
 | Model                                                                           | rouge1 | rouge2 | rougeL | rougeLsum
 |---------------------------------------------------------------------------------|--------|--------|--------|----------
 | [google/mt5-small](https://huggingface.co/google/mt5-small) | 16.7323    | 3.5629    | 12.65    | 14.6898
