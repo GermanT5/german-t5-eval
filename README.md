@@ -25,3 +25,4 @@ Higher metric is better.
 | [stefan-it/t5-base-secret](https://huggingface.co/stefan-it/t5-base-secret) package3 | 15.7427    | 2.9186    | 12.0224    | 13.8726
 | [stefan-it/t5-base-secret](https://huggingface.co/stefan-it/t5-base-secret) epoch2-package2 | 15.4757    | 2.7629    | 11.978    | 13.5326
 | [GermanT5/t5-base-german-3e](https://huggingface.co/GermanT5/t5-base-german-3e) | 14.5525    | 2.0007    | 11.1617    | 12.9124
+| [GermanT5/t5-efficient-oscar-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-oscar-german-small-el32) | 16.6277 | 3.404 | 12.6183 | 14.5772
