@@ -28,7 +28,7 @@ Higher metric is better.
 | [GermanT5/t5-efficient-oscar-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-oscar-german-small-el32) last CP | 16.6277 | 3.404 | 12.6183 | 14.5772
 | [GermanT5/t5-efficient-oscar-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-oscar-german-small-el32) 2nd last CP | 16.6886 | 3.4468 | 12.666 | 14.6423
 
-## Summarization Task - max_source_length 512 max_target_length: 96
+## Summarization Task - max_source_length 512 max_target_length: 96 epochs: 8
 
 ### Setup
 - train data: [Swisstext](https://www.swisstext.org/2019/shared-task/german-text-summarization-challenge.html)
@@ -37,7 +37,7 @@ Higher metric is better.
 - batch size / GPU: 2
 - batch size total: 8
 - warmup_ratio: 0.3
-- epochs: 10
+- epochs: 8
 - max_source_length: 512
 - max_target_length: 96
 - learning rate: 5e-5 (default)
