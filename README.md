@@ -49,3 +49,4 @@ Higher metric is better.
 |---------------------------------------------------------------------------------|--------|--------|--------|----------
 | [google/mt5-small](https://huggingface.co/google/mt5-small) | ??? | ??? | ??? | ???
 | [GermanT5/t5-efficient-oscar-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-oscar-german-small-el32) | ??? | ??? | ??? | ???
+| [GermanT5/t5-efficient-gc4-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-gc4-german-small-el32) | ??? | ??? | ??? | ???
