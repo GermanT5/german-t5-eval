@@ -48,5 +48,5 @@ Higher metric is better.
 | Model                                                                           | rouge1 | rouge2 | rougeL | rougeLsum
 |---------------------------------------------------------------------------------|--------|--------|--------|----------
 | [google/mt5-small](https://huggingface.co/google/mt5-small) | 16.0354 | 3.2689 | 12.2063 | 14.1225
-| [GermanT5/t5-efficient-oscar-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-oscar-german-small-el32) | ??? | ??? | ??? | ???
+| [GermanT5/t5-efficient-oscar-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-oscar-german-small-el32) | 16.2004 | 3.2372 | 12.3031 | 14.2256
 | [GermanT5/t5-efficient-gc4-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-gc4-german-small-el32) | 17.1507 | 3.8038 | 13.0836 | 15.1671
