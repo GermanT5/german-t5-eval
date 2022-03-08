@@ -50,4 +50,4 @@ Higher metric is better.
 | [google/mt5-small](https://huggingface.co/google/mt5-small) (FP32) | 16.0354 | 3.2689 | 12.2063 | 14.1225
 | [GermanT5/t5-efficient-oscar-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-oscar-german-small-el32) (FP32) | 16.2004 | 3.2372 | 12.3031 | 14.2256
 | [GermanT5/t5-efficient-gc4-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-gc4-german-small-el32) (FP32) | 17.1507 | 3.8038 | 13.0836 | 15.1671
-| [GermanT5/t5-efficient-gc4-german-base-nl36](https://huggingface.co/GermanT5/t5-efficient-gc4-german-base-nl36) (FP16) | 9.3494 | 1.3531 | 7.4037 | 8.5473
+| [GermanT5/t5-efficient-gc4-german-base-nl36-old](https://huggingface.co/GermanT5/t5-efficient-gc4-german-base-nl36-old) (FP16) | 9.3494 | 1.3531 | 7.4037 | 8.5473
