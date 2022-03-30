@@ -51,4 +51,4 @@ Higher metric is better.
 | [GermanT5/t5-efficient-oscar-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-oscar-german-small-el32) (FP32) | 16.2004 | 3.2372 | 12.3031 | 14.2256
 | [GermanT5/t5-efficient-gc4-german-small-el32](https://huggingface.co/GermanT5/t5-efficient-gc4-german-small-el32) (FP32) | 17.1507 | 3.8038 | 13.0836 | 15.1671
 | [GermanT5/t5-efficient-gc4-german-base-nl36-old](https://huggingface.co/GermanT5/t5-efficient-gc4-german-base-nl36-old) (FP16) | 9.3494 | 1.3531 | 7.4037 | 8.5473
-| GermanT5/t5-efficient-gc4-german-base-nl36 ([DeepSpeed](https://github.com/microsoft/DeepSpeed) with [ZeRO-3 Example](https://huggingface.co/docs/transformers/main_classes/deepspeed#zero3-example) config) | 17.9501 | 3.9247 | 13.3758 | 15.6139
+| [GermanT5/t5-efficient-gc4-german-base-nl36](https://huggingface.co/GermanT5/t5-efficient-gc4-german-base-nl36) ([DeepSpeed](https://github.com/microsoft/DeepSpeed) with [ZeRO-3 Example](https://huggingface.co/docs/transformers/main_classes/deepspeed#zero3-example) config) | 17.9501 | 3.9247 | 13.3758 | 15.6139
